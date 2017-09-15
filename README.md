@@ -8,3 +8,5 @@ Dins del directori /docs hi trobaràs el codi html que pots fer servir per mostr
 El resultat que dóna és el que veus aquí: https://robertgarrigos.github.io/anunci-referendum-cat-17/
 
 L'amplada del vídeo ve marcada per l'ampla del contenidor de l'etiqueta video.
+
+Desobeeix d'altres maneres a https://jodesobeeixo.cat
